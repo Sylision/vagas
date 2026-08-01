@@ -32,7 +32,7 @@ Toda vaga aqui traz **faixa salarial publicada**, requisitos concretos e
 modalidade. Sem "salário a combinar".
 
 - Site: <https://www.sylision.com>
-- Dúvidas: abra uma issue ou escreva para giovani@sylision.com
+- Dúvidas: abra uma issue ou escreva para giovani.poleto@sylision.com
 
 ## Privacidade
 
