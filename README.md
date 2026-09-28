@@ -23,15 +23,22 @@ Use as etiquetas para achar o que interessa:
 
 ## O que a Sylision faz
 
-Somos uma plataforma de recrutamento de tecnologia. Recrutamos para empresas
-parceiras e usamos IA para encontrar quem realmente encaixa na vaga — em vez de
-busca por palavra-chave e filtro em excesso, que descarta gente boa por causa de
-uma palavra que faltou no currículo.
+A Sylision mantém um **acervo sobre como as empresas funcionam por dentro**.
+Ex-funcionários respondem perguntas fechadas sobre salário, processo seletivo,
+time e saída, e nada é publicado antes de **três pessoas diferentes** responderem
+sobre a mesma empresa, área e ano. Não existe campo de texto livre, não existe
+nota de 1 a 5 publicada, e a empresa descrita não escreve nada lá dentro.
 
-Toda vaga aqui traz **faixa salarial publicada**, requisitos concretos e
+- Ver o acervo: <https://www.sylision.com>
+- Contar como era numa empresa onde você já trabalhou: <https://www.sylision.com/responder>
+
+As vagas deste repositório são o outro lado da mesma casa. A Sylision recruta
+para empresas parceiras e cruza o seu currículo com todas as vagas compatíveis
+do banco, então você envia o CV **uma vez só**, inclusive para as vagas que
+abrirem depois. Toda vaga traz faixa salarial publicada, requisitos concretos e
 modalidade. Sem "salário a combinar".
 
-- Site: <https://www.sylision.com>
+- Enviar o currículo: <https://www.sylision.com/enviar-cv>
 - Dúvidas: abra uma issue ou escreva para giovani.poleto@sylision.com
 
 ## Privacidade
