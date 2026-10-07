@@ -1,47 +1,34 @@
-# Vagas de tecnologia da Sylision
+# Sylision Intelligence
 
-Vagas abertas no **Brasil** e em **Portugal**, publicadas aqui todos os dias.
+A Sylision Intelligence é um **acervo global de como as empresas funcionam por
+dentro**, respondido por quem já saiu, com vínculo conferido. Tudo é publicado
+sempre agregado, e nada sai antes de **três pessoas diferentes** responderem
+sobre a mesma empresa, área e semestre. Aceita relato sobre empresa de qualquer
+país.
 
-## Como se candidatar
+- Ver o acervo: <https://www.sylision.com>
+- Contar como era numa empresa onde você já trabalhou: <https://www.sylision.com/responder>
 
-Cada vaga é uma [issue](../../issues) com o link da página no site. Você envia
-o CV **uma única vez**: a IA da Sylision cruza o seu perfil com esta e com
-todas as outras vagas compatíveis do banco, inclusive as que abrirem depois.
+## Este repositório
 
-👉 **[Ver todas as vagas abertas](../../issues)**
+A Sylision também divulga vagas reais, e este repositório é o mural delas. Cada
+vaga é uma [issue](../../issues) com a faixa salarial, a modalidade e o link da
+página no site, onde fica a candidatura. A issue fecha quando a vaga sai do ar.
 
-## Como filtrar
+**[Ver as vagas abertas](../../issues)**
 
-Use as etiquetas para achar o que interessa:
+### Como filtrar
 
 | etiqueta | o que é |
 |---|---|
 | `backend` `frontend` `fullstack` `mobile` `devops` `dados` `qa` | área |
 | `junior` `pleno` `senior` | senioridade |
 | `remoto` `hibrido` | modalidade |
-| `brasil` `portugal` | país |
+| nome do país | onde a vaga aceita gente |
 
-## O que a Sylision faz
+## Contato e privacidade
 
-A Sylision mantém um **acervo sobre como as empresas funcionam por dentro**.
-Ex-funcionários respondem perguntas fechadas sobre salário, processo seletivo,
-time e saída, e nada é publicado antes de **três pessoas diferentes** responderem
-sobre a mesma empresa, área e ano. Não existe campo de texto livre, não existe
-nota de 1 a 5 publicada, e a empresa descrita não escreve nada lá dentro.
-
-- Ver o acervo: <https://www.sylision.com>
-- Contar como era numa empresa onde você já trabalhou: <https://www.sylision.com/responder>
-
-As vagas deste repositório são o outro lado da mesma casa. A Sylision recruta
-para empresas parceiras e cruza o seu currículo com todas as vagas compatíveis
-do banco, então você envia o CV **uma vez só**, inclusive para as vagas que
-abrirem depois. Toda vaga traz faixa salarial publicada, requisitos concretos e
-modalidade. Sem "salário a combinar".
-
-- Enviar o currículo: <https://www.sylision.com/enviar-cv>
-- Dúvidas: abra uma issue ou escreva para giovani.poleto@sylision.com
-
-## Privacidade
+Dúvidas: abra uma issue ou escreva para giovani.poleto@sylision.com.
 
 Seus dados são tratados conforme a LGPD. Você pode pedir a remoção a qualquer
 momento e ela é feita na hora.
