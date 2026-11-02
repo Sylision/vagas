@@ -1,12 +1,9 @@
-# Sylision Intelligence
+# Sylision
 
-A Sylision Intelligence é um **acervo global de como as empresas funcionam por
-dentro**, respondido por quem já saiu, com vínculo conferido. Tudo é publicado
-sempre agregado, e nada sai antes de **três pessoas diferentes** responderem
-sobre a mesma empresa, área e semestre. Aceita relato sobre empresa de qualquer
-país.
+A Sylision é uma empresa de **inteligência de recrutamento e seleção**, com foco em inteligência de mercado. Atua em duas frentes: o **Sylision Head Hunter**, que busca profissionais de tecnologia para empresas no Brasil e no exterior, e o **acervo Sylision Intelligence**, em que ex-funcionários contam como as empresas funcionam por dentro, publicado só de forma agregada, com no mínimo três pessoas por recorte.
 
-- Ver o acervo: <https://www.sylision.com>
+- Head Hunter para empresas: <https://www.sylision.com>
+- Ver o acervo: <https://www.sylision.com/o-acervo>
 - Contar como era numa empresa onde você já trabalhou: <https://www.sylision.com/responder>
 
 ## Este repositório
